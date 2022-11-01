@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @MTalhaAli47
+## Hope you're doing well
 - 👀 I’m interested in Web Development, Project Managemnet, IT Management and leadership.
 - 🌱 I’m currently learning BSCS from FAST NUCES ISB.
 - 💞️ I’m looking to collaborate on different modern projects
 - 📫 How to reach me Whatsapp 0301-0715645
-- 
 Im Alliedian Aspirant Kipsian Ravian Giftian NUSTIAN FASTIAN NUCIAN.
 Google Developer since 2021.
 Topper of Aspire College. 
