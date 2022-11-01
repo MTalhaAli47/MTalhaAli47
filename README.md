@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MTalhaAli47
+# 👋 Hi, I’m @MTalhaAli47
 - 👀 I’m interested in Web Development, Project Managemnet, IT Management and leadership.
 - 🌱 I’m currently learning BSCS from FAST NUCES ISB.
 - 💞️ I’m looking to collaborate on different modern projects
