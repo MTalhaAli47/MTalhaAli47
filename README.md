@@ -1,4 +1,4 @@
-##👋 **Hi, I'm Muhammad Talha!** 
+## 👋 Hi, I'm Muhammad Talha! 
 
 🎓 **BS Computer Science Graduate | FAST NUCES Islamabad**
 
